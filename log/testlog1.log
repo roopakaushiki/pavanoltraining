@@ -1,0 +1,158 @@
+2019-05-27 01:12:40,797 [main] INFO ebanking - URL opened
+2019-05-27 01:12:42,782 [main] INFO ebanking - Enter Username
+2019-05-27 01:12:42,919 [main] INFO ebanking - Enter Password
+2019-05-27 01:12:47,132 [main] INFO ebanking - Login Test Passed
+2019-05-27 01:59:43,558 [main] INFO ebanking - URL opened
+2019-05-27 01:59:59,895 [main] INFO ebanking - Enter Username
+2019-05-27 02:00:00,110 [main] INFO ebanking - Enter Password
+2019-05-27 02:00:12,681 [main] INFO ebanking - Login Test Passed
+2019-05-27 02:07:58,995 [main] INFO ebanking - URL opened
+2019-05-27 02:08:00,804 [main] INFO ebanking - Enter Username
+2019-05-27 02:08:00,917 [main] INFO ebanking - Enter Password
+2019-05-27 02:08:02,033 [main] INFO ebanking - Login Test Passed
+2019-05-27 02:34:30,398 [main] INFO ebanking - URL opened
+2019-05-27 02:34:36,590 [main] INFO ebanking - Enter Username
+2019-05-27 02:34:36,714 [main] INFO ebanking - Enter Password
+2019-05-27 02:34:37,844 [main] INFO ebanking - Login Test Passed
+2019-05-27 02:35:06,442 [main] INFO ebanking - URL opened
+2019-05-27 02:35:07,217 [main] INFO ebanking - Enter Username
+2019-05-27 02:35:07,359 [main] INFO ebanking - Enter Password
+2019-05-27 02:35:08,481 [main] INFO ebanking - Login Test Passed
+2019-05-27 03:39:22,698 [main] INFO ebanking - URL opened
+2019-05-27 03:42:52,607 [main] INFO ebanking - URL opened
+2019-05-27 03:42:53,168 [main] INFO ebanking - Enter Username
+2019-05-27 03:42:53,292 [main] INFO ebanking - Enter Password
+2019-05-27 03:42:54,827 [main] INFO ebanking - Login Test Passed
+2019-05-27 10:28:58,347 [main] INFO ebanking - URL opened
+2019-05-27 10:29:12,463 [main] INFO ebanking - Enter Username
+2019-05-27 10:29:12,591 [main] INFO ebanking - Enter Password
+2019-05-27 10:29:14,994 [main] INFO ebanking - Login Test Passed
+2019-05-27 10:54:38,785 [main] INFO ebanking - URL opened
+2019-05-27 10:54:58,266 [main] INFO ebanking - Enter Username
+2019-05-27 10:54:58,427 [main] INFO ebanking - Enter Password
+2019-05-27 10:55:07,226 [main] INFO ebanking - Login Test Passed
+2019-05-27 12:21:42,421 [main] INFO ebanking - user name provided
+2019-05-27 12:21:42,916 [main] INFO ebanking - user name provided
+2019-05-27 12:21:42,946 [main] INFO ebanking - user name provided
+2019-05-27 12:21:42,985 [main] INFO ebanking - user name provided
+2019-05-27 12:21:43,023 [main] INFO ebanking - user name provided
+2019-05-27 17:17:14,637 [main] INFO ebanking - URL opened
+2019-05-27 17:17:30,340 [main] INFO ebanking - Enter Username
+2019-05-27 17:17:30,463 [main] INFO ebanking - Enter Password
+2019-05-27 17:17:32,324 [main] INFO ebanking - Login Test Passed
+2019-05-27 23:00:55,306 [main] INFO ebanking - user name provided
+2019-05-27 23:00:55,643 [main] INFO ebanking - password provided
+2019-05-27 23:01:07,172 [main] INFO ebanking - user name provided
+2019-05-27 23:01:07,286 [main] INFO ebanking - password provided
+2019-05-27 23:01:17,278 [main] INFO ebanking - user name provided
+2019-05-27 23:01:17,378 [main] INFO ebanking - password provided
+2019-05-27 23:01:27,400 [main] INFO ebanking - user name provided
+2019-05-27 23:01:27,514 [main] INFO ebanking - password provided
+2019-05-27 23:01:36,935 [main] INFO ebanking - user name provided
+2019-05-27 23:01:37,049 [main] INFO ebanking - password provided
+2019-05-27 23:09:12,267 [main] INFO ebanking - user name provided
+2019-05-27 23:09:12,423 [main] INFO ebanking - password provided
+2019-05-27 23:09:26,635 [main] INFO ebanking - user name provided
+2019-05-27 23:09:26,742 [main] INFO ebanking - password provided
+2019-05-27 23:09:35,682 [main] INFO ebanking - user name provided
+2019-05-27 23:09:35,786 [main] INFO ebanking - password provided
+2019-05-27 23:09:44,342 [main] INFO ebanking - user name provided
+2019-05-27 23:09:44,436 [main] INFO ebanking - password provided
+2019-05-27 23:09:50,330 [main] INFO ebanking - user name provided
+2019-05-27 23:09:50,429 [main] INFO ebanking - password provided
+2019-05-27 23:12:48,762 [main] INFO ebanking - user name provided
+2019-05-27 23:12:48,921 [main] INFO ebanking - password provided
+2019-05-27 23:12:59,517 [main] INFO ebanking - user name provided
+2019-05-27 23:12:59,649 [main] INFO ebanking - password provided
+2019-05-27 23:13:09,179 [main] INFO ebanking - user name provided
+2019-05-27 23:13:09,276 [main] INFO ebanking - password provided
+2019-05-27 23:13:19,208 [main] INFO ebanking - user name provided
+2019-05-27 23:13:19,312 [main] INFO ebanking - password provided
+2019-05-27 23:13:31,838 [main] INFO ebanking - user name provided
+2019-05-27 23:13:31,954 [main] INFO ebanking - password provided
+2019-05-27 23:14:45,828 [main] INFO ebanking - user name provided
+2019-05-27 23:14:45,990 [main] INFO ebanking - password provided
+2019-05-27 23:14:56,638 [main] INFO ebanking - user name provided
+2019-05-27 23:14:56,748 [main] INFO ebanking - password provided
+2019-05-27 23:15:08,684 [main] INFO ebanking - user name provided
+2019-05-27 23:15:08,810 [main] INFO ebanking - password provided
+2019-05-27 23:15:19,850 [main] INFO ebanking - user name provided
+2019-05-27 23:15:19,956 [main] INFO ebanking - password provided
+2019-05-27 23:15:31,169 [main] INFO ebanking - user name provided
+2019-05-27 23:15:31,283 [main] INFO ebanking - password provided
+2019-05-27 23:25:13,135 [main] INFO ebanking - URL opened
+2019-05-27 23:25:13,877 [main] INFO ebanking - Enter Username
+2019-05-27 23:25:14,008 [main] INFO ebanking - Enter Password
+2019-05-27 23:25:23,525 [main] INFO ebanking - Login Test Passed
+2019-05-27 23:34:20,365 [main] INFO ebanking - URL opened
+2019-05-27 23:34:20,926 [main] INFO ebanking - Enter Username
+2019-05-27 23:34:21,185 [main] INFO ebanking - Enter Password
+2019-05-27 23:34:23,091 [main] INFO ebanking - Login Test Passed
+2019-05-27 23:34:36,725 [main] INFO ebanking - User name is provided
+2019-05-27 23:34:36,880 [main] INFO ebanking - Passsword is provided
+2019-05-27 23:34:45,379 [main] INFO ebanking - providing customer details....
+2019-05-27 23:35:01,187 [main] INFO ebanking - validation started....
+2019-05-27 23:35:01,254 [main] INFO ebanking - test case passed....
+2019-05-27 23:35:56,666 [main] INFO ebanking - URL opened
+2019-05-27 23:35:56,879 [main] INFO ebanking - Enter Username
+2019-05-27 23:35:57,006 [main] INFO ebanking - Enter Password
+2019-05-27 23:36:01,839 [main] INFO ebanking - Login Test Passed
+2019-05-27 23:36:20,072 [main] INFO ebanking - User name is provided
+2019-05-27 23:36:20,214 [main] INFO ebanking - Passsword is provided
+2019-05-27 23:36:29,281 [main] INFO ebanking - providing customer details....
+2019-05-27 23:36:42,552 [main] INFO ebanking - validation started....
+2019-05-27 23:36:42,582 [main] INFO ebanking - test case passed....
+2019-05-28 00:40:55,601 [main] INFO ebanking - URL opened
+2019-05-28 00:40:57,168 [main] INFO ebanking - Enter Username
+2019-05-28 00:40:57,329 [main] INFO ebanking - Enter Password
+2019-05-28 00:41:03,250 [main] INFO ebanking - Login Test Passed
+2019-05-28 00:41:23,168 [main] INFO ebanking - User name is provided
+2019-05-28 00:41:23,288 [main] INFO ebanking - Passsword is provided
+2019-05-28 00:41:33,567 [main] INFO ebanking - providing customer details....
+2019-05-28 00:41:49,536 [main] INFO ebanking - validation started....
+2019-05-28 00:41:49,585 [main] INFO ebanking - test case passed....
+2019-05-28 00:49:39,962 [main] INFO ebanking - URL opened
+2019-05-28 00:49:40,189 [main] INFO ebanking - Enter Username
+2019-05-28 00:49:40,319 [main] INFO ebanking - Enter Password
+2019-05-28 00:49:44,014 [main] INFO ebanking - Login Test Passed
+2019-05-28 00:49:57,434 [main] INFO ebanking - User name is provided
+2019-05-28 00:49:57,562 [main] INFO ebanking - Passsword is provided
+2019-05-28 00:50:03,713 [main] INFO ebanking - providing customer details....
+2019-05-28 00:50:18,569 [main] INFO ebanking - validation started....
+2019-05-28 00:50:18,608 [main] INFO ebanking - test case passed....
+2019-05-28 12:05:15,930 [main] INFO ebanking - URL opened
+2019-05-28 12:05:16,267 [main] INFO ebanking - Enter Username
+2019-05-28 12:05:16,398 [main] INFO ebanking - Enter Password
+2019-05-28 12:05:17,869 [main] INFO ebanking - Login Test Passed
+2019-05-28 12:05:31,812 [main] INFO ebanking - User name is provided
+2019-05-28 12:05:31,959 [main] INFO ebanking - Passsword is provided
+2019-05-28 12:05:47,729 [main] INFO ebanking - providing customer details....
+2019-05-28 12:06:01,713 [main] INFO ebanking - validation started....
+2019-05-28 12:06:01,762 [main] INFO ebanking - test case passed....
+2019-05-28 12:07:00,939 [main] INFO ebanking - URL opened
+2019-05-28 12:07:01,166 [main] INFO ebanking - Enter Username
+2019-05-28 12:07:01,327 [main] INFO ebanking - Enter Password
+2019-05-28 12:07:02,219 [main] INFO ebanking - Login Test Passed
+2019-05-28 12:07:14,684 [main] INFO ebanking - User name is provided
+2019-05-28 12:07:14,815 [main] INFO ebanking - Passsword is provided
+2019-05-28 12:07:23,462 [main] INFO ebanking - providing customer details....
+2019-05-28 12:07:34,912 [main] INFO ebanking - validation started....
+2019-05-28 12:07:34,943 [main] INFO ebanking - test case passed....
+2019-05-28 12:09:34,810 [main] INFO ebanking - URL opened
+2019-05-28 12:09:35,242 [main] INFO ebanking - Enter Username
+2019-05-28 12:09:35,367 [main] INFO ebanking - Enter Password
+2019-05-28 12:09:36,953 [main] INFO ebanking - Login Test Passed
+2019-05-28 12:09:49,563 [main] INFO ebanking - User name is provided
+2019-05-28 12:09:49,714 [main] INFO ebanking - Passsword is provided
+2019-05-28 12:09:56,928 [main] INFO ebanking - providing customer details....
+2019-05-28 12:10:09,445 [main] INFO ebanking - validation started....
+2019-05-28 12:10:09,480 [main] INFO ebanking - test case passed....
+2019-05-28 13:36:14,463 [main] INFO ebanking - URL opened
+2019-05-28 13:36:23,022 [main] INFO ebanking - Enter Username
+2019-05-28 13:36:23,152 [main] INFO ebanking - Enter Password
+2019-05-28 13:36:24,719 [main] INFO ebanking - Login Test Passed
+2019-05-28 13:36:50,165 [main] INFO ebanking - User name is provided
+2019-05-28 13:36:50,292 [main] INFO ebanking - Passsword is provided
+2019-05-28 13:37:02,052 [main] INFO ebanking - providing customer details....
+2019-05-28 13:37:13,751 [main] INFO ebanking - validation started....
+2019-05-28 13:37:13,831 [main] INFO ebanking - test case passed....

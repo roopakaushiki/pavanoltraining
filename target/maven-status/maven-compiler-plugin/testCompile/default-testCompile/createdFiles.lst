@@ -1,0 +1,9 @@
+com\pavanoi\pageobjects\BaseClass.class
+com\pavanoi\utilities\Reporting.class
+com\pavanoi\testcases\TC_AddCustomerTest_003.class
+com\pavanoi\utilities\ReadConfig.class
+com\pavanoi\pageobjects\AddCustomerPage.class
+com\pavanoi\testcases\TC_Login_DDT_002.class
+com\pavanoi\testcases\TC_LoginTest_001.class
+com\pavanoi\pageobjects\LoginPage.class
+com\pavanoi\utilities\XLUtils.class

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="pavanoltrainingV1" duration-ms="131025" started-at="2019-05-28T06:33:51Z" finished-at="2019-05-28T06:36:02Z">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="131025" started-at="2019-05-28T06:33:51Z" finished-at="2019-05-28T06:36:02Z">
+      <class name="com.pavanoi.testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.pavanoi.testcases.TC_LoginTest_001@589838eb]" name="setUp" is-config="true" duration-ms="63622" started-at="2019-05-28T06:33:52Z" finished-at="2019-05-28T06:34:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.pavanoi.testcases.TC_LoginTest_001@589838eb]" name="loginTest" duration-ms="22116" started-at="2019-05-28T06:34:55Z" finished-at="2019-05-28T06:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pavanoi.testcases.TC_LoginTest_001@589838eb]" name="tearDown" is-config="true" duration-ms="935" started-at="2019-05-28T06:35:18Z" finished-at="2019-05-28T06:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pavanoi.testcases.TC_LoginTest_001 -->
+      <class name="com.pavanoi.testcases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.pavanoi.testcases.TC_AddCustomerTest_003@42dafa95]" name="setUp" is-config="true" duration-ms="12685" started-at="2019-05-28T06:35:18Z" finished-at="2019-05-28T06:35:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.pavanoi.testcases.TC_AddCustomerTest_003@42dafa95]" name="addNewCustomer" duration-ms="30136" started-at="2019-05-28T06:35:31Z" finished-at="2019-05-28T06:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pavanoi.testcases.TC_AddCustomerTest_003@42dafa95]" name="tearDown" is-config="true" duration-ms="965" started-at="2019-05-28T06:36:01Z" finished-at="2019-05-28T06:36:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pavanoi.testcases.TC_AddCustomerTest_003 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- pavanoltrainingV1 -->
+</testng-results>
